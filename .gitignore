@@ -4,6 +4,7 @@
 *.pem
 *.log
 *.err
+*.so
 valgrind.txt
 glewlwyd.conf
 glewlwyd
